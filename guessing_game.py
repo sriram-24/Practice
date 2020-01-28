@@ -16,6 +16,6 @@ for i in range(1,15):
     else:
         print("wrong!")
         print("you have ",15-i," chances left!")
-        if(l=="quit"):
-            break
+        
+            
 
